@@ -18,6 +18,8 @@ public class CountEvenOddNumber {
 			} else 
 			{
              odd_count++;
+             
+             //Test
 			}
 	    	 num=num/10;
 	     }
