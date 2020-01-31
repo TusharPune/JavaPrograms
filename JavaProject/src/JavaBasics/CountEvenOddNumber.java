@@ -1,4 +1,4 @@
-package InterviewQuestion;
+package JavaBasics;
 
 public class CountEvenOddNumber {
 	

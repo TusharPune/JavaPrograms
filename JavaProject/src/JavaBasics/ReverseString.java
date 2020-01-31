@@ -1,4 +1,4 @@
-package InterviewQuestion;
+package JavaBasics;
 
 //Reverse string program 
 //Difference betw String and String buffer 
