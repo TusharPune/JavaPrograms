@@ -1,4 +1,4 @@
-package JavaBasics;
+package Java;
 
 //Reverse string program 
 //Difference betw String and String buffer 

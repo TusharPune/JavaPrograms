@@ -1,4 +1,4 @@
-package JavaBasics;
+package Java;
 
 public class CountEvenOddNumber {
 	

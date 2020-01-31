@@ -1,4 +1,4 @@
-package JavaBasics;
+package Java;
 
 public class Buzz_fizz_357 {
 
