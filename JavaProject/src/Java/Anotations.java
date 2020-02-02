@@ -10,6 +10,8 @@ public class Anotations {
 	@Test
 	public void main() {
 		System.out.println("Test 1");
+		
+		
 	}
 
 	@Test
@@ -22,7 +24,7 @@ public class Anotations {
 		System.out.println("@BeforeTest");
 	}
 
-	@BeforeMethod
+	@BeforeMethod@AfterTest
 	public void main4() {
 		System.out.println("@BeforeMethod");
 	}
@@ -36,5 +38,10 @@ public class Anotations {
 	public void main6() {
 		System.out.println("@AfterTest");
 	}
+	
+	
+	
+}
+	
 
 }
