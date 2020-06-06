@@ -1,4 +1,4 @@
-package InterviewQuestion;
+package Java;
 
 public class ReverseNumber {
 
