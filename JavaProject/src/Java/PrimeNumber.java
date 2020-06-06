@@ -4,7 +4,7 @@ public class PrimeNumber {
 
 	public static void main(String args[]) {
 
-		int num = 5;
+		int num = 11;
 		int count = 0;
 		boolean isprime=true;
 
