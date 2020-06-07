@@ -28,6 +28,43 @@ What is approach .
 7 . If I say that POM model is a big failure, will you agree with the statement. If yes, then then what are the drawbacks. If no then  what are good things explain ?
 
 
+
+HCL interview questions. Telephonic round
+
+1. In a webpage html there is a text box, how will you locate. Will you locate directly and locate the text box.
+
+2. We are clicking on ok button, first click one pop-up got opened, second click one more like wise five pop-up got opened. How will you close the 5th pop up and 3rd pop-up. ??
+
+3. Once the story points are ready, then how will assign the task or do you pick the story points and work accordingly ?
+
+4. When will you run the regression suite.. after the code is deployed in QA ?
+
+Example . If 2 sprint got over. 26 th the code is deployed in the QA 28th is the release date. When you will run the regression. Before 26th or after 26th. 
+
+Do we run the regression suite for sprint 1 or sprint 2 or both. ???
+
+When do we run the regression suite..in the day or night.
+
+If we get 5 test case fails after regression suite runs.. what you will do and how do we handle the failed one.
+
+5 if there are 5 frames in the application. How to switch to the 5th frame.
+
+6 any real time example for low priority and high severity.
+
+7. What are the other reports you have used apart from extend report and testng report ?
+
+8 . What is bug life cycle in JIRA tool. What are the options to report a bug in Jira
+
+9. If there is a base class and class and interface.. where will you override the interface methods.. in base class or normal class ???
+
+10. What is velocity in agile. And if we completed 30 story points in a sprint. Then how do we calculate the velocity of that sprint.
+
+11. If we don't complete the story in a sprint what is the next step I will take ??
+
+Can anyone provide the answer for regression suite
+
+
+
 City Bank first round-
 
 2. Do you know OOPs concepts and in framework where and how you have implemented it? 
