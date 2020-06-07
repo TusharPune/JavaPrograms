@@ -1,0 +1,50 @@
+Cuelogic Interview Questions:
+
+1. What is abstraction and how did you use abstraction in your framework.
+2. Difference between static and final ? 
+3. Can abstract class have static data members ? How why?
+4. What is session , can we store session data on client side ?
+5. Login UC with username , paswrd, login button, explain scenarios.
+6. 404 and 400 status code.
+7. Difference between https and http.
+
+City Bank first round-
+
+1. What you have done till now as part of your IT experience? 
+2. Do you know OOPs concepts and in framework where and how you have implemented it? 
+3. Can we declare a private class? 
+4. What is difference between == and equals? 
+5. How string is immutable? 
+6. Where strings get stored and where reference gets stored? 
+7. Can you please explain with the reference of memory location that how string is immutable? 
+8. If not want to use String class then what can be used? 
+9. Difference between String and StringBuffer. 
+10. What collections you have used? Have you used HashMap? 
+11. List declaration?
+12. Where used Set? 
+13. You have an application like flipkart and you want to buy a pen, so you have added that item two times to cart using add to cart button, but in cart only one entry for item should be displayed with quantity as 2, so how you'll test this? 
+14. 1 to 100 numbers will be flashed on screen only once and you have to find the missing number. 
+15. I have a table and want to store all table data then which collection should be ust and why? 
+16. What HashMap will return? 
+17. How to achieve inheritance without having interface? 
+18. Method overloading and method overriding? Where used in framework? 
+19. If I want that my class should not be extended and instance cannot be created by other class then how to declare class? 
+20. How to store multiple values in one reference? 
+21. In cucumber, in which class you have gluecode, how many classes for gluecode and what was the program line limit for class? 
+22. How to find missing implementation in Cucumber? 
+23. Used static data or dynamic data, what was the approach? 
+24. How  to resolved conflicts while pushing code in Git? 
+
+Harman Interview question 
+
+1) Roles and responsibilities 
+2)Explain wyat you done in SQL testing
+3)Explain SQL qieries
+4)Explain What you done in API testing?
+5)Do you have experience  in unix?
+6)Explain different types of deffect management ?
+7)Explain Bug cycle
+8)Explain How you handle exception 
+9)What is xpath?Type of X path.Explain each type
+10)What is Wait selenium,Diffrernt type of waits,Explain each waits
+11)How you convert string "HELLO" into String "hello"
