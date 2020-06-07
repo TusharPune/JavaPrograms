@@ -3,14 +3,13 @@ Cuelogic Interview Questions:
 1. What is abstraction and how did you use abstraction in your framework.
 2. Difference between static and final ? 
 3. Can abstract class have static data members ? How why?
-4. What is session , can we store session data on client side ?
-5. Login UC with username , paswrd, login button, explain scenarios.
-6. 404 and 400 status code.
-7. Difference between https and http.
+
+
+
+
 
 City Bank first round-
 
-1. What you have done till now as part of your IT experience? 
 2. Do you know OOPs concepts and in framework where and how you have implemented it? 
 3. Can we declare a private class? 
 4. What is difference between == and equals? 
@@ -39,12 +38,7 @@ Harman Interview question
 
 1) Roles and responsibilities 
 2)Explain wyat you done in SQL testing
-3)Explain SQL qieries
-4)Explain What you done in API testing?
 5)Do you have experience  in unix?
 6)Explain different types of deffect management ?
-7)Explain Bug cycle
 8)Explain How you handle exception 
-9)What is xpath?Type of X path.Explain each type
-10)What is Wait selenium,Diffrernt type of waits,Explain each waits
 11)How you convert string "HELLO" into String "hello"
