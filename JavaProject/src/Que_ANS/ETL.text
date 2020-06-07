@@ -1,0 +1,7 @@
+ETL is short for extract, transform, load. It’s a type of data integration that refers to the three steps used to blend data from multiple sources. It’s often used to build a data warehouse. ETL refers to three separate functions combined into a single programming tool.
+
+• Extraction – data is extracted from homogeneous or heterogeneous data sources.
+• Transformation – data is transformed for storing in the proper format or structure for the purposes of querying and analysis.
+• Loading – data is loaded into the final target database, more specifically, an operational data store, data mart, or data warehouse.
+
+Data must be properly formatted and normalized in order to be loaded into data storage systems, and ETL is used as shorthand to describe the three stage process of moving data from its source to a formal data storage system.

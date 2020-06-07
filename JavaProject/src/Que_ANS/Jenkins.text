@@ -1,0 +1,5 @@
+Jenkins is an open-source continuous integration (CI) and continuous delivery (CD) solution written in Java. The idea of CI is to merge code from individual developers into a project multiple times per day and test continuously to avoid downstream problems. CD takes this a step further to ensure that all merged code is always in a production-ready state. Jenkins enables developers to automate this process as much as possible — up to the point of deployment.
+
+Builds can be triggered by various means, for example by commit in a version control system, by scheduling via a cron-like mechanism and by requesting a specific build URL. It can also be triggered after the other builds in the queue have completed.
+
+Running Selenium tests in Jenkins allows you to run your tests every time your software changes and deploy the software to a new environment when the tests pass. This concept is meant to remove the problem of finding later occurrence of issues in the build life-cycle.

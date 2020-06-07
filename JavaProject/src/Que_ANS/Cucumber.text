@@ -1,0 +1,7 @@
+JBehave is a framework for Behavior-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike.
+
+JBehave supports Java-based development, and plain English is used to form the story. The story comprises of one or more scenarios, and a scenario is made up of one or more steps. Kind of steps – ‘Given’, ‘When’, and ‘Then’, which are used in all BDD tools. The keywords in JBehave are,
+
+Scenario, GivenStories, Given, When, Then, And.
+
+Once BDD scenarios are defined, implement the steps via Java code.

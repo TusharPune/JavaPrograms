@@ -1,1 +1,8 @@
 7. Difference between https and http.
+Many a times Job descriptions talk about Client-Server applications and Web-based applications. Any idea what’s the difference?
+
+A. Client-Server: Application runs on the Client side (i.e. thick client) and access the remote server for information/service. Clients initiate communication sessions with servers which await incoming requests. Can be platform-dependent or independent based on the programming language used. E.g. Email Clients like Outlook or Chat clients. It requires installation on client’s machine, i.e. runs as .exe.
+
+Web-based: A platform-independent application that runs entirely on a Web browser (i.e. thin client). No installation needed. E.g. Gmail.
+
+Note: A Web application is also a Client/Server application, i.e. client/server application is a kind of superclass. Just that ‘Client’ is always a ‘Web Browser’.

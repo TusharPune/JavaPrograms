@@ -1,0 +1,17 @@
+Q. What to do if Agile User story is delayed?
+
+A. First things First | Update Product Backlog & Re-prioritize - When a product backlog item has undone work at the end of an agile sprint, it should first technically be put back onto the product backlog. The Product Owner re-orders the backlog. Typically unfinished items end up at the top, but not always.
+
+Undone means Undone | The Undone Perspective - This model keeps things simple and keeps teams from gaming the numbers. The idea is to put back ‘complete’ story (do not resize the items to represent only the remaining undone work) back on the product backlog for re-prioritization. Do not include any effort spent on the undone user story in the velocity calculation of the current sprint. On average, over a number of sprints the velocity figures will average out in any case.
+
+But something got done | The Done perspective - If we can take some work to done so it can be inspected, do it! Work was done and we want to know how much work remains in the release. Split the User story. There are many cases where the team realizes that a PBI can be decomposed into even smaller chunks of done work. If teams cannot break a story further into work that can be delivered as done and remaining undone user story, then it should go back on the Product Backlog wholesale. The team may choose to re-estimate due to the new knowledge they now have.
+
+A. Sprint (or iteration) is the heart of Scrum. It calls for below ceremonies that bring structure to each sprint:
+
+Sprint Planning: Held at the start of each sprint to define the Sprint Backlog (importing stories from the Product/Release backlog), i.e. items that can be completed in the current sprint. As you might have guessed, the Product Owner drives Sprint Planning as in which stories are highest in priority.
+
+Daily Scrum: Presided over by the Scrum Master, Daily Scrum is a 15-minute stand-up meeting to synchronize the work of team members, i.e. what’s done on the prior day, what needs to be done today, and identify any impediments. It is also a means to track Sprint progress.
+
+Sprint Review: Held at the end of each sprint to demonstrate the added functionality. The goal is to get feedback from the product owner and other stakeholders to ensure that the delivered increment met the business need and to revise the Product Backlog based on the feedback.
+
+Sprint Retrospective: Held at the end of each sprint to reflect on the completed sprint and identify opportunities to improve in the next – what went well, what did not and what can be improved. It allows the team to focus on its overall performance and identify strategies for continuous improvement.	

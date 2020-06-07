@@ -1,0 +1,13 @@
+Appium is an open-source test framework for automating native, mobile web, and hybrid applications on iOS and Android platforms.
+
+• Native apps: written using the iOS, Android, or Windows SDKs.
+• Web apps: accessed using a mobile browser.
+• Hybrid apps: wrapper around a “webview” – a native control that enables interaction with web content.
+
+Appium is cross platform, i.e. write tests against multiple platforms (iOS, Android, Windows), using the same API (code reuse).
+
+Appium uses vendor-provided automation frameworks (Apple’s XCTest, Google UiAutomator, Google Instrumentation via Selendroid, Microsoft WinAppDriver) so that there is no need to change-recompile the app.
+
+Appium wraps the vendor-provided frameworks in one API, the WebDriver API. WebDriver (aka “Selenium WebDriver”) specifies a client-server protocol (known as the JSON Wire Protocol). Given this client-server architecture, a client written in any language can be used to send the appropriate HTTP requests to the server. There are already clients written in every popular programming language.
+
+Note: Appium & WebDriver clients are not technically ‘test frameworks’ – they are “automation libraries”.

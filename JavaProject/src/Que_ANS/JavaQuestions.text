@@ -131,3 +131,19 @@ Harman Interview question
 28. Write a program to sort an array in ascending or descending order?
 29. Write a program to whether a given number is prime or not ?
 30. Write a program to find factorial of a given number ?
+
+
+When to use different collection types?
+
+A. Collection framework provides interfaces and class implementations that enable easy data handling, i.e. store, retrieve and manipulate the data very effectively and easily. The basic types are Lists, Set & Maps.
+
+1. Lists: no of items written one-by-one, usually ordered. Can be accessed using index. Say you want to store a list of web elements (e.g. all the hyperlinks). Implementations - ArrayList, LinkedList, Vector.
+2. Set: a collection of unique items, i.e. no duplicates. Say you don't want duplicates in a database. Implementations - HashSet, LinkedHashSet, TreeSet.
+3. Maps: a collection of 'Key - Value' pairs. Say you want to save key-value pairs like,
+• Username - STS
+• Password - ***
+• Environment - SIT URL
+• Browser - Firefox
+Implementations - HashMap, LinkedHashMap, TreeMap.
+
+The specific type to use depends on Test req, Test data org, multi-threading, sync-async, performance, etc.
