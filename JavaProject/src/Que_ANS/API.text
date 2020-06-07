@@ -1,2 +1,124 @@
 6. 404 and 400 status code.
 4)Explain What you done in API testing?
+
+Introduction of API and WebServices:
+What is API
+What is WebService
+What is Backend Architecture
+Rest vs SOAP APIs
+What is CRUD operation
+What are different HTTP Calls – GET/POST/PUT/Delete
+Different Live Projects Examples
+Postman:
+Introduction
+How to call Rest API in Postman
+How to pass path parameter in Request
+How to pass query parameter in Request
+How to set Headers in Postman
+How to pass JSON/XML Payload
+How to check response status code
+How to check JSON/XML response message
+What is response header
+Cookies manipulation
+Header Presets
+API History in Postman
+Advance Postman/Newman:
+Introduction of Newman
+Newman installation/setup
+How to run collections from Newman
+Newman command line options
+Generate HTML Test Report
+Create a collection and folders
+Create a collection from API Specification or API Schema
+maintenance of API collections
+Postman Console and logs
+Test Script in postman
+Pre Request Script in postman
+Test Code snippet in postman
+Monitoring of APIs
+API Documentation
+API Documentation in different programming languages
+Publish Documentation
+Setup Environment - Local and Global
+Collection Runner
+Collection Test Summary
+Creating a Mock Server for APIs
+How to create a team workspace
+How to create individual workspace
+Import in Postman
+Basic and Advanced Settings in Rest Client
+Running postman collection with Docker
+Running postman collection with Jenkins
+How to check APIs at the network layer using developer tools of browser:
+How to check Backend services – APIs running behind
+What is developer tool in Chrome
+How to check request/response of any API in Firefox/Chrome browsers
+What are different HTTP Status Response Codes:
+100 series
+200 series
+300 series
+400 series
+500 series
+
+Automation Testing of Back End/APIs:
+
+Learn HTTP Client API:
+ All CRUD – GET/POST/PUT/Delete Calls
+How to send Request with Payloads
+What is JSON Payload
+How to validate JSON response using JSON Parsers
+Common Utilities
+New End to End Framework using HTTP Client
+Logging
+Reporting : Extent Report/TestNG Report/Allure Report
+
+Learn Rest Assured Client API:
+Introduction of Rest Assured
+Rest Assured methods: GET/POST/PUT/Delete
+Handle different payloads using POJO and JSON/XMLs
+Handle Authentication using Basic Auth, Preemptive Auth, Digest Auth, Bearer Token, Authorization Token, Client ID, Client Secret, API Key, API Secret, OAuth1 and OAuth2
+All core features of Rest Assured Library:
+GET/POST/PUT/DELETE - BDD Approaches
+What is GIVEN/WHEN/THEN/AND methods
+What is LOG and ALL methods
+How to ASSERT in Rest Assured
+How to verify Status Code, Response Body and Headers
+How to use QUERY PARAMETERS and PATH PARAMETERS
+What is ResponseBuilderSpec and RequestSpecification Concept
+What is JSONPATH
+What is EXTRACT method
+How to send a POST CALL with JSON String, JSON File and using Java (POJO) Class.
+What is Serialization and De-Serialization
+How to use HAMCREST - Assertion Library
+GET/POST/PUT/DELETE - NON-BDD Approaches
+New End to End Framework using Rest Assured
+Reporting : Extent Report/TestNG Report/Allure Report
+
+API functional Testing using Jmeter Tool (only functional part)
+Download and Installation of Jmeter
+How to test APIs using Jmeter
+
+Request and Response handling in Jmeter
+     9. Basics of SOAP UI Tool
+Download and Installation of SOAP UI tool
+How to create a Project in SOAP UI
+How to create a Test Suite in SOAP UI
+How to create different Test Cases in SOAP UI
+Different Assertions in SOAP UI
+
+10. Maven: Build Automation Tool
+Run your API Automation Framework from Maven
+Different commands in Maven
+
+11. TestNG (TDD) Framework for API automation
+
+12. GIT Repo:
+Create a New Repo
+Clone a Repo
+GIT PUSH
+GIT PULL
+GIT Check OUT
+
+13. How to run API automation using DOCKER - Jenkins – CI tool (Continuous Integration)
+Integration of API Automation with CI-CD process
+Running test cases from Jenkins

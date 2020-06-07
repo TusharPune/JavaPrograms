@@ -1,0 +1,46 @@
+Git commands
+To Configure the username and email to be used with your commits.
+git config --global user.name "Ankur Jain"
+git config --global user.email ankurjain@gmail.com
+To initialize git repository
+git init
+To create a working copy of a local repository:
+git clone /path/to/repository
+To Add one or more files to staging (index):
+git add <filename>
+git add *
+git add .
+To commit Changes
+git commit -m "Commit message"
+Push code to the master branch of remote repository
+git push origin master
+To check git status
+git status
+To push the code to the remote server
+git remote add origin <server>
+To get the list of all currently configured remote repositories
+git remote -v
+To Create and switch to a new branch
+git checkout -b <branchname>
+To Switch from one branch to another:
+git checkout <branchname>
+To List all the branches in the repository
+git branch
+To Delete the particular feature branch:
+git branch -d <branchname>
+To Push the branch to the remote repository.
+git push origin <branchname>
+To Push all branches to remote repository:
+git push --all origin
+To Delete a branch on a remote repository:
+git push origin :<branchname>
+To merge a branch into an active branch:
+git merge <branchname>
+To view all the merge conflicts:
+View the conflicts against the base file:
+Preview changes, before merging:
+git diff
+git diff --base <filename>
+git diff <sourcebranch> <targetbranch>
+To get the information about the previous commits to the project.
+git log

@@ -1,0 +1,14 @@
+What is Self Join
+How to get unique values
+What operator is used to fetch the name starting with A and tell me the system 
+
+
+Query-1. Select Name, Max (Salary) As Salary from Employee Where Salary < (Select Max (Salary) from Employee Where Salary < (Select Max (Salary) from Employee));
+
+Query-2. There should be just 2 Salaries greater than it. Select * from Employee E1 where 2 = (Select Count(Distinct(E2.Salary)) from Employee E2 where E2.Salary > E1.Salary)
+
+Query-3. (Oracle) Sort descending >> Then pick row number 3. Select * from (Select Name, Salary, ROW_NUMBER() OVER (Order by Salary Desc) As RowNum from Employee) as Temp where Temp.RowNum = 3;
+
+Query-4. (SQL Server). Top 3 by sorting in descending order >> Top 1 after sorting in ascending order, i.e. 3rd highest. Select Top 1 Salary from (Select Distinct Top 3 Salary from Employee Order By Salary Desc) As Temp Order By Salary Asc
+
+Query-5. (MySQL). Sort descending >> Skip top 2 & then fetch next record, i.e. 3rd highest salary. Select Salary from Employee Order By Salary Desc LIMIT 2, 1;

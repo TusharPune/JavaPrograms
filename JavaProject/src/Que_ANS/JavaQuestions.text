@@ -5,7 +5,27 @@ Cuelogic Interview Questions:
 3. Can abstract class have static data members ? How why?
 
 
+Tek Systems interview questions.
 
+1. What is pagefactory and @findBy ? What is the use of these ?
+2 why we are creating constructor in PO class and test class ?? How it will communicate ??
+
+3 in the application there is a common operation button  click, logout, navigate.
+How will will you use this in the common utility class. Write the code ?
+
+4. If there is a millions of records , which one do you prefer List or set ? Why
+
+5 do we create the test plan in agile. If yes then when do we create ?
+
+6 there is an array 
+
+a[  ] = {1, 3, -2, -1,-3, 2}
+
+Output  should be {1, -1, 2, -2, -3,3}.  
+
+What is approach .
+
+7 . If I say that POM model is a big failure, will you agree with the statement. If yes, then then what are the drawbacks. If no then  what are good things explain ?
 
 
 City Bank first round-
@@ -42,3 +62,35 @@ Harman Interview question
 6)Explain different types of deffect management ?
 8)Explain How you handle exception 
 11)How you convert string "HELLO" into String "hello"
+
+
+1. What are static variables ?
+2. Difference between Abstract class and interface ?
+3. In a catch block, 3 exception are mentioned.. 1st is exception e , 2nd is NullPointerException and 3rd is AirthmaticException. While in try block condition is given as Integer divide by zero. Which catch block will execute ?
+4. What is hash code and how it is implemented?
+5. What is the use of finally block ?
+6. Tell me 10 exception you have faced till now ?
+7. What will happen if I insert duplicate value in a Hashset and Hashmap ?
+8. What are the condition by which one may achieve method overloading?
+9. Does Java provide operator overloading ?
+10. What is Type saftey and loose coupling?
+11. What is coveriant return type?
+12. Difference between Collection and Collections?
+13. Difference between throw and throws keywords?
+14. Why string is immutable? Difference between string, string buffer and string builder?
+15. Difference between equals() and == ?
+16. What is final keyword ?
+17. Write a program to swap two numbers without using third variable?
+18. Write a program to print Fibonacci series?
+19. Write a program to find duplicate char from a string ?
+20. Write a program to reverse a number?
+21. Write a program to iterate a array list ?
+22. Write a program to find the second highest number from an array ?
+23. Write a program to check whether two strings are equal or not ?
+24. Write a program to reverse a linkedList ?
+25. Write a program print pascal triangle ?
+26. Write a program to reverse a string without affecting special characters in that string ?
+27. Write a program to check whether given number is palindrome or not ?
+28. Write a program to sort an array in ascending or descending order?
+29. Write a program to whether a given number is prime or not ?
+30. Write a program to find factorial of a given number ?
