@@ -1,0 +1,34 @@
+Cts Bangalore Selenium Java Profile ( 2019)
+Company Name: Cognizant (CTS)
+First Round:
+Features of Java.
+Explain four pillars of OOPS.
+What is static and non-static?
+What is the final keyword?
+DIfference between this and super?
+What is the difference between length and length() in Java?
+What is an abstract class?
+What is the interface?
+DIfference between List and Set?
+What is the use of the Map?
+How do you launch a browser in Selenium?
+How to delete cookies?
+Write a program to find the duplicates in an array.
+There is an array of numbers and a number key. The array contains that key. Rearrange array in an order where left side elements of a key are smaller than key and right side elements are greater than key.
+Second Round:
+Annotations in TestNG
+Which reporting tool you used in Framework?
+Explain the flow of your framework?
+What is your contribution to your framework?
+What is StaleElementException?
+What are the waits available in Selenium?
+Limitations of Selenium?
+If not Selenium, which tool you will prefer?
+Difference between Actions and Action?
+How do you handle keystrokes in Selenium?
+How do you handle alerts in Selenium?
+You have a link to the main window. When you click on that link, it opens 3 new windows. One of the windows consists of an iframe. How you will navigate there?
+There are five tabs on the home page of a Website. You need to navigate to each tab and verify the page is loaded. Write optimal logic.
+What is dry run in Cucumber?
+Annotations in Cucumber
+Interviewers asked questions from Java and Selenium. Both rounds were 45 minutes long. First-round consists of Java questions mainly. The second round focused on Selenium.
