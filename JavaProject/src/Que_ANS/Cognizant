@@ -1,17 +1,39 @@
 Cts Bangalore Selenium Java Profile ( 2019)
 Company Name: Cognizant (CTS)
 First Round:
-Features of Java.
-Explain four pillars of OOPS.
-What is static and non-static?
-What is the final keyword?
-DIfference between this and super?
+
+1. Features of Java.
+https://docs.google.com/document/d/1NdcpcxgwxhTmfXRkIrMamwzIQ5UhKXcZI4nC_WdKN0Q/edit?usp=sharing
+
+2. Explain four pillars of OOPS.
+https://docs.google.com/document/d/1J-JF9sCO2-G4k5bK4bQdPX__S8cZ7PX6hQ1pvk1AaDk/edit?usp=sharing 
+
+3. What is static and non-static?
+https://docs.google.com/document/d/154_4RUPEauRfeSswLJFFdWJcwc11su1irHikQm-vG1c/edit?usp=sharing
+
+4. What is the final/Finally/ Finalized  keyword?
+https://docs.google.com/document/d/1ZVgobHUsgrJmUjhbgdDkCMigSyfU160h2RKcuArEbnI/edit?usp=sharing
+
+
+5. DIfference between this and super?
+https://docs.google.com/document/d/1dbXX5H4u3ma9CYjHhPpSB-01v6Ada5ZgS-AVPNA748w/edit?usp=sharing
+
 What is the difference between length and length() in Java?
+https://docs.google.com/document/d/1wlzWPOEyja44Feg2XT3N-4GOhZn5WOK6HAP-ADXmMm4/edit?usp=sharing
+
 What is an abstract class?
+https://docs.google.com/document/d/1XdaUEt5d4MK-qoPWrY6_X4V2br155FdzY7ix35Zxj0Q/edit?usp=sharing
+
 What is the interface?
+https://docs.google.com/document/d/1Ydaz1l0IN_qsRiaXq0yJxOHl7K9N4lLNSGqYwEIfhps/edit?usp=sharing
+
 DIfference between List and Set?
+https://docs.google.com/document/d/1kmonJ-NNzo9ZmYArlZZDOBHK995u96ESksVSPGrG44k/edit?usp=sharing
+
 What is the use of the Map?
+
 How do you launch a browser in Selenium?
+
 How to delete cookies?
 Write a program to find the duplicates in an array.
 There is an array of numbers and a number key. The array contains that key. Rearrange array in an order where left side elements of a key are smaller than key and right side elements are greater than key.
@@ -29,6 +51,11 @@ How do you handle keystrokes in Selenium?
 How do you handle alerts in Selenium?
 You have a link to the main window. When you click on that link, it opens 3 new windows. One of the windows consists of an iframe. How you will navigate there?
 There are five tabs on the home page of a Website. You need to navigate to each tab and verify the page is loaded. Write optimal logic.
+
 What is dry run in Cucumber?
+https://docs.google.com/document/d/1y6_9sON502FdjgcUpECiP-zCt7dM91GpI_CHX-Ppcrk/edit?usp=sharing
+
 Annotations in Cucumber
+https://docs.google.com/document/d/1L5vo3C8Ii9Frs_skE21uTQsKmMQP2bMupjAW9_YXmu4/edit?usp=sharing
+
 Interviewers asked questions from Java and Selenium. Both rounds were 45 minutes long. First-round consists of Java questions mainly. The second round focused on Selenium.
