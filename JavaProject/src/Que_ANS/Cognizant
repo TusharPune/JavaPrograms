@@ -37,14 +37,23 @@ How do you launch a browser in Selenium?
 How to delete cookies?
 Write a program to find the duplicates in an array.
 There is an array of numbers and a number key. The array contains that key. Rearrange array in an order where left side elements of a key are smaller than key and right side elements are greater than key.
+
 Second Round:
 Annotations in TestNG
+https://docs.google.com/document/d/1SV_iZ6x1b51xmPoadf8q8AZ1lS_Wl434umLcBxFllzo/edit?usp=sharing
+
 Which reporting tool you used in Framework?
+
 Explain the flow of your framework?
+
 What is your contribution to your framework?
+
 What is StaleElementException?
+
 What are the waits available in Selenium?
+
 Limitations of Selenium?
+
 If not Selenium, which tool you will prefer?
 Difference between Actions and Action?
 How do you handle keystrokes in Selenium?
