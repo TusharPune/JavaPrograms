@@ -39,7 +39,7 @@ How to delete cookies?
 ->https://docs.google.com/document/d/1A_iY2QAh9gZ14uIQXPBLQStzzIWNFndsdZxpMcy3_h0/edit?usp=sharing
 
 Write a program to find the duplicates in an array.
-
+https://github.com/TusharPune/JavaPrograms/blob/Main/JavaProject/src/Java/DubicateElement.java
 
 There is an array of numbers and a number key. The array contains that key. Rearrange array in an order where left side elements of a key are smaller than key and right side elements are greater than key.
 
