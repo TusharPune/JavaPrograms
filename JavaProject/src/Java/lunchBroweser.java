@@ -12,7 +12,7 @@ public class lunchBroweser {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.crm360.co.in/");
 		driver.manage().window().maximize();
-		driver.quit();
+		
 
 	}
 
