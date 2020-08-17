@@ -12,7 +12,7 @@ public class TextFileReder {
 
 		File file = new File("/home/tushar/test.txt");
 		Scanner sc = new Scanner(file);
- String Str1=sc.toString();
+		String Str1=sc.toString();
 		String str4[] = Str1.split(",");
 
 		for (int i = 0; i <= str4.length-1 ; i++) {
