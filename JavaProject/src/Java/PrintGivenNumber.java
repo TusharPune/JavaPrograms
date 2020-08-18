@@ -5,44 +5,33 @@ import java.util.Scanner;
 public class PrintGivenNumber {
 
 	public static void main(String[] args) {
-		   
-		Scanner  input = new Scanner(System.in); 
-		
+
+		Scanner input = new Scanner(System.in);
+
 		System.out.println("Please Enter Number");
-		int NUM= input.nextInt(); 
-		
-		System.out.println("Your given number is "+NUM);
-		
-		
-		int i =0;
-	       int num =0;
-	       //Empty String
-	       String  primeNumbers = "";
+		int NUM = input.nextInt();
 
-	       for (i = 1; i <= 100; i++)         
-	       { 		  	  
-	          int counter=0; 	  
-	          for(num =i; num>=1; num--)
-		  {
-	             if(i%num==0)
-		     {
-	 		counter = counter + 1;
-		     }
-		  }
-		  if (counter ==2)
-		  {
-		     //Appended the Prime number to the String
-		     primeNumbers = primeNumbers + i + " ";
-		  }	
-	       }	
-	       System.out.println("Prime numbers from 1 to 100 are :");
-	       System.out.println(primeNumbers);
-	   }
-		
-		
-		
-		
+		System.out.println("Your given number is " + NUM);
 
+		int i = 0;
+		int num = 0;
+		// Empty String
+		String primeNumbers = "";
+
+		for (i = 1; i <= 100; i++) {
+			int counter = 0;
+			for (num = i; num >= 1; num--) {
+				if (i % num == 0) {
+					counter = counter + 1;
+				}
+			}
+			if (counter == 2) {
+				// Appended the Prime number to the String
+				primeNumbers = primeNumbers + i + " ";
+			}
+		}
+		System.out.println("Prime numbers from 1 to 100 are :");
+		System.out.println(primeNumbers);
 	}
 
-
+}
